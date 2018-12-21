@@ -12,8 +12,8 @@ namespace HotelManagement
 {
     public partial class MainForm : Form
     {
-        NewOrder no = new NewOrder();
-        Reservations re = new Reservations();
+        NewOrderForm no = new NewOrderForm();
+        ReservationsForm re = new ReservationsForm();
         public MainForm()
         {
             no.Hide();

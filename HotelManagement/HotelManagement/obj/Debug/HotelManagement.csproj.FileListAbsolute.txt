@@ -10,3 +10,16 @@ C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManag
 C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
 C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
 C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+D:\xampp\Reservero\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+D:\xampp\Reservero\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+D:\xampp\Reservero\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.MainForm.resources
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.NewOrderForm.resources
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ReservationsForm.resources
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RoomForm.resources
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+D:\xampp\Reservero\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb

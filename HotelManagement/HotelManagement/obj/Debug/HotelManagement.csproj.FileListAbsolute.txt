@@ -1,0 +1,12 @@
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.MainForm.resources
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.NewOrder.resources
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Reservations.resources
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\xflak\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
